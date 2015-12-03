@@ -1,0 +1,13 @@
+$ cat .gitignore
+*.[oa]
+*~
+exe
+lst
+obj
+src/FreeRTOS/Demo
+*.dep
+*.build_log.htm
+*.uvgui*
+*.bak
+JLinkLog.txt
+JLinkSettings.ini
